@@ -1,0 +1,472 @@
+Location_Name,Type,Address,City,State_province,Zip,Country_ISO3166_alpha2,Latitude,Longitude,Phone,URL,Vaccine_type,Booking_walk,Days,Blank,Age,
+Birchmount Pharmasave,Pharmacy,"462 Birchmount Road, Scarborough, ON",Scarborough,Ontario,M1K 1N8,CA,43.7069465,-79.2687238,416-698-1616,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 4 p.m.
+Sunday: 10 a.m. to 1 p.m.",-,40+,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 9 a.m. to 3 p.m."
+Costco Pharmacy,Pharmacy,"1411 Warden Avenue, Scarborough, ON",Scarborough,Ontario,M1R 2S3,CA,43.7594111,-79.2976102,416-288-1172,b.telehippo.com/o/w537,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8:30 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,Also add other info section
+Drugstore Pharmacy,Pharmacy,"70 Island Road, Scarborough, ON",Scarborough,Ontario,M1C 2P5,CA,43.7982135,-79.1412713,,nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Food Basics Pharmacy,Pharmacy,"1571 Sandhurst Circle, Scarborough, ON",Scarborough,Ontario,M1V 1V2,CA,43.8092547,-79.2696046,,metropharmacy.medmeapp.com/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+FreshCo Pharmacy Gerrard & Victoria,Pharmacy,"2490 Gerrard Street East, Scarborough, ON",Scarborough,Ontario,M1N 1W8,CA,43.6878079,-79.2848414,416-698-2060,www.pharmacyappointments.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+FreshCo Pharmacy Lawrence/Midland,Pharmacy,"2650 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M1P 2S1,CA,43.752733,-79.264041,416-755-4184,www.pharmacyappointments.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Health Check Pharmacy Pharmasave,Pharmacy,"2826A Markham Road, Scarborough, ON",Scarborough,Ontario,M1X 1E6,CA,43.8229959,-79.2485509,416-298-8165,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 8 p.m.
+Saturday: 9:30 a.m. to 4 p.m.",-,40+,
+Health Corner Pharmacy,Pharmacy,"2167 Victoria Park Avenue, Unit 3, Scarborough",Scarborough,Ontario,M1R 1V5,CA,43.758913,-79.3150402,416-384-0707,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7:30 p.m.
+Saturday: 10 a.m. to 5 p.m.
+Sunday: closed",-,40+,
+HealthSmart Pharmasave,Pharmacy,"2425 Eglinton Avenue East, Unit 10, Scarborough",Scarborough,Ontario,M1K 5G8,CA,43.7320812,-79.2672493,416-759-0000,www.healthsmartpharmasave.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.",-,40+,
+Kennedy Road Pharmacy,Pharmacy,"2 Antrim Crescent, Unit 4, Scarborough, ON",Scarborough,Ontario,M1P 2N3,CA,43.7719194,-79.2840048,416-298-2222,idapharmacytoronto.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 7 p.m.
+Saturday: 10 a.m. to 3 p.m.",-,40+,
+Lawrence Pharmacy,Pharmacy,"2683 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M1P 2S2,CA,43.7517056,-79.2615008,416-750-4691,www.remedys.ca/en/ontario/scarborough/lawrence-pharmacy-7016574,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 6 p.m.
+Saturday: 9:30 a.m. to 4 p.m.",-,40+,
+Markham Corners Pharmacy,Pharmacy,"5113 Sheppard Avenue East, Scarborough, ON",Scarborough,Ontario,M1S 4N8,CA,43.79257,-79.2391289,647-349-9393,www.markhamcornersmedical.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 3 p.m.",-,40+,
+Medical Pharmacy,Pharmacy,"1333 Neilson Road, Unit 110, Scarborough, ON",Scarborough,Ontario,M1B 4Y9,CA,43.8084303,-79.2196494,416-282-5705,scarboroughmp.medmeapp.com/schedule/,AstraZeneca,Appoinment/Booking,"Sunday: 9 a.m. to 1 p.m.
+Monday - Thursday: 7 a.m. to 7 p.m.
+Friday: 7 a.m. to 6 p.m.
+Saturday: 8 a.m. to 1 p.m.",-,40+,
+Nofrills,Pharmacy,"1450 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M4A 2S8,CA,43.7424568,-79.3108174,416-752-0135,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Nofrills,Pharmacy,"3401 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M1H 1B2,CA,43.7575482,-79.2304055,416-438-4392,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Nofrills,Pharmacy,"681 Silver Star Boulevard, Scarborough, ON",Scarborough,Ontario,M1V 5N1,CA,43.8238543,-79.2988738,416-292-3656,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8:30 a.m. to 8:30 p.m.
+Saturday: 8:30 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Orton Park Guardian Pharmacy,Pharmacy,"136 Orton Park Road, Scarborough, ON",Scarborough,Ontario,M1G 3H1,CA,43.7716344,-79.2092939,416-439-7222,www.guardian-ida-pharmacies.ca/en/ontario/scarborough/orton-park-pharmacy-7041430,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.",-,40+,
+People's Choice Remedy's Rx,Pharmacy,"1145 Morningside Avenue, Unit 16, Scarborough, ON",Scarborough,Ontario,M1B 0A7,CA,43.8013095,-79.1984082,647-748-7337,www.peopleschoicepharmacies.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 8 p.m.
+Saturday: 9:30 a.m. to 5 p.m.",-,40+,
+Pharmasave Cedarcourt Pharmacy,Pharmacy,"3480 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M1H 1A9,CA,43.7597868,-79.2270078,416-289-0000,pharmasavecedarcourt.medmeapp.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 7 p.m.
+Saturday: 10 a.m. to 4 p.m.",-,40+,
+Rexall,Pharmacy,"2682 Eglinton Avenue East, Scarborough, ON",Scarborough,Ontario,M1K 2S3,CA,43.7373179,-79.2494319,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Rexall ,Pharmacy,"4040 Finch Avenue East, Scarborough, ON",Scarborough,Ontario,M1S 4V5,CA,43.802426,-79.2938831,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8:30 a.m. to 9 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 11 a.m. to 3 p.m.",-,40+,
+Rexall,Pharmacy,"3607 Sheppard Avenue East, Scarborough, ON",Scarborough,Ontario,M1T 3K8,CA,43.7804383,-79.2982782,416-291-0402,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Rexall,Pharmacy,"1127 Markham Road, Scarborough, ON",Scarborough,Ontario,M1H 2Y5,CA,43.7754702,-79.2305767,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 8 p.m.
+Sunday: 9 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"4459 Kingston Road, Scarborough, ON",Scarborough,Ontario,M1E 2N7,CA,43.7686389,-79.1873671,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 9 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"2863 Ellesmere Road, Scarborough, ON",Scarborough,Ontario,M1E 5E9,CA,43.7805326,-79.2060768,416-724-6055,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday - Sunday: 10 a.m. to 9 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"685 McCowan Road, Scarborough, ON",Scarborough,Ontario,M1J 1K2,CA,43.7546876,-79.2446318,416-431-4822,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 10 p.m.
+Saturday: 9 a.m. to 10 p.m.
+Sunday: 10 a.m. to 10 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"2900 Warden Avenue, Scarborough, ON",Scarborough,Ontario,M1W 2S8,CA,43.7984738,-79.3182127,,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 10 p.m.
+Saturday: 9 a.m. to 8 p.m.
+Sunday: 10 a.m. to 7 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"2355 Warden Avenue, Scarborough, ON",Scarborough,Ontario,M1T 1V7,CA,43.7850608,-79.3100251,,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1400 Neilson Road, Scarborough, ON",Scarborough,Ontario,M1B 0C2,CA,43.8093399,-79.2229982,416-754-3130,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m,-,40+,
+Shoppers Drug Mart,Pharmacy,"2251 Lawrence Avenue East, Scarborough, ON",Scarborough,Ontario,M1P 2P5,CA,43.7487442,-79.2763879,416-759-6767,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"300 Borough Drive, Scarborough, ON",Scarborough,Ontario,M1P 4P5,CA,43.7757281,-79.2574487,416-296-5056,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 10:30 a.m. to 7 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"2901 Sheppard Avenue East, Scarborough, ON",Scarborough,Ontario,M1T 3J3,CA,43.7750524,-79.3223314,416-491-4444,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"2999 Kingston Road, Scarborough, ON",Scarborough,Ontario,M1M 1P1,CA,43.7252846,-79.2305937,416-261-6114,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 12 a.m. (midnight)
+Saturday: 9 a.m. to 12 a.m. (midnight)
+Sunday: 10 a.m. to 12 a.m. (midnight)",-,40+,
+Shoppers Drug Mart,Pharmacy,"85 Ellesmere Road, Unit 31, Scarborough, ON",Scarborough,Ontario,M1R 4B7,CA,43.7570595,-79.3134587,416-444-8478,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m,-,40+,
+Shoppers Drug Mart,Pharmacy,"265 Port Union Road, Scarborough, ON",Scarborough,Ontario,M1C 2L3,CA,43.7890134,-79.1397278,416-284-9229,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"5671 Steeles Avenue East, Scarborough, ON",Scarborough,Ontario,M1V 5P6,CA,43.8330026,-79.2652886,416-292-2024,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 12 a.m. (midnight)
+Saturday: 9 a.m. to 12 a.m. (midnight)
+Sunday: 10 a.m. to 12 a.m. (midnight)",-,40+,
+Shoppers Drug Mart,Pharmacy,"2330 Kennedy Road, Scarborough, ON",Scarborough,Ontario,M1T 3H1,CA,43.7838577,-79.2893272,416-299-3532,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"1571 Sandhurst Circle, Scarborough, ON",Scarborough,Ontario,M1V 1V2,CA,43.8092547,-79.2696046,416-292-6602,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1235 McCowan Road, Scarborough, ON",Scarborough,Ontario,M1H 3K3,CA,43.7726783,-79.2510177,416-412-1353,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"91 Rylander Boulevard, Unit 1022, Scarborough, ON",Scarborough,Ontario,M1B 5M5,CA,43.7971562,-79.1510611,416-724-5344,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"255 Morningside Avenue, Scarborough, ON",Scarborough,Ontario,M1E 3E6,CA,43.7699397,-79.1849207,416-282-1129,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"1780 Markham Road, Scarborough, ON",Scarborough,Ontario,M1B 2W2,CA,43.7948226,-79.2405334,416-412-1780,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"629 Markham Road, Scarborough, ON",Scarborough,Ontario,M1H 2A4,CA,43.7601551,-79.2253571,416-439-2121,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"2751 Eglinton Avenue East, Scarborough, ON",Scarborough,Ontario,M1J 2C7,CA,43.7363941,-79.2474937,416-267-8211,covid-19.shoppersdrugmart.ca/en,Pfizer,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,18+,
+Victoria Commons Pharmacy,Pharmacy,"2555 Victoria Park Avenue, Unit 6, Scarborough, ON",Scarborough,Ontario,M1T 1A3,CA,43.7727921,-79.3210997,,viccomhealth.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 5 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Village Square Pharmacy,Pharmacy,"2942 Finch Avenue East, Scarborough, ON",Scarborough,Ontario,M1W 2T4,CA,43.7943595,-79.3294453,416-492-4167,www.guardian-ida-pharmacies.ca/en/ontario/scarborough/village-square-pharmacy-7005106 ,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 3 p.m",-,40+,
+Wal-mart Pharmacy,Pharmacy,"300 Borough Drive, Scarborough, ON",Scarborough,Ontario,M1P 4P5,CA,43.7757281,-79.2574487,,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Wal-mart Pharmacy,Pharmacy,"5995 Steeles Avenue East, Scarborough, ON",Scarborough,Ontario,M1V 5P6,CA,43.8333939,-79.2553806,416-298-2578,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Wal-mart Pharmacy,Pharmacy,"3850 Sheppard Avenue East, Scarborough, ON",Scarborough,Ontario,M1T 3L4,CA,43.7841948,-79.2921542,416-293-2429,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Wal-mart Pharmacy,Pharmacy,"1900 Eglinton Avenue East, Scarborough, ON",Scarborough,Ontario,M1L 2L9,CA,43.7283577,-79.2955271,416-615-2702,www.walmart.ca/en/covid19-vaccinations-centre-info,Pfizer,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,18+,
+Wal-mart Pharmacy,Pharmacy,"799 Milner Avenue, Scarborough, ON",Scarborough,Ontario,M1B 3C3,CA,43.7976384,-79.2017578,416-281-4643,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Metro Toronto Convention Centre (North Building),City-Operated Clinic,"277 Front St W, Toronto, ON",Toronto,Ontario,M5V 2X4,CA,43.6437883,-79.3882786,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Scarborough Town Centre,City-Operated Clinic,"300 Borough Dr, Scarborough, ON",Scarborough,Ontario,M1P 4P5,CA,43.7757281,-79.2574487,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Toronto Congress Centre,City-Operated Clinic,"650 Dixon Rd, Etobicoke, ON",Etobicoke,Ontario,M9W 1J1,CA,43.6920262,-79.5782115,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+East York Town Centre (Thorncliffe Park Community Hub),"City-Operated Clinic, Michael Garron Hospital","45 Overlea Blvd, Toronto, ON",Toronto,Ontario,M4H 1C2,CA,43.7057953,-79.3460276,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Mitchell Field Arena,City-Operated Clinic,"89 Church Ave, North York, ON",North York,Ontario,M2N 6C9,CA,43.7744594,-79.408229,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Malvern Community Recreation Centre,City-Operated Clinic,"30 Sewells Rd, Scarborough, ON",Scarborough,Ontario,M1B 3G5,CA,43.8081621,-79.2162806,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+The Hangar Sport & Event Centre,City-Operated Clinic,"75 Carl Hall Rd, Toronto, ON",Toronto,Ontario,M3K 2B9,CA,43.7481008,-79.4745952,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Carmine Stefano Community Centre,City-Operated Clinic,"3100 Weston Rd, North York, ON",North York,Ontario,M9M 2S7,CA,43.7329924,-79.5391369,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Cloverdale Mall,City-Operated Clinic,"250 The East Mall, Etobicoke, ON",Etobicoke,Ontario,M9B 3Y8,CA,43.6324095,-79.5564805,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+North Toronto Memorial Community Centre,City-Operated Clinic,"200 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M4R 1A7,CA,43.7069278,-79.4045237,,covid-19.ontario.ca/book-vaccine/,Not sure,Appoinment/Booking,,-,18+ (Hotspot),
+Centennial College – Progress Campus (Athletic and Wellness Centre),Scarborough Health Network,"941 Progress Ave, Scarborough, ON",Scarborough,Ontario,M1G 3T8,CA,43.7839791,-79.2316767,,www.scarboroughcovidvaccineclinic.ca/,Not sure,Appoinment/Booking,7 DAYS/WEEK 10 a.m to 6 p.m,-,18+ (Hotspot),
+SHN - Centenary Hospital,Scarborough Health Network,"2867 Ellesmere Rd, Scarborough, ON",Scarborough,Ontario,M1E 4B9,CA,43.7800012,-79.2049361,,www.scarboroughcovidvaccineclinic.ca/,Not sure,Appoinment/Booking,7 DAYS/WEEK 8:30 a.m to 7 p.m,-,18+ (Hotspot),
+Carefirst Seniors & Community Services Association,Scarborough Health Network,"300 Silver Star Blvd, Scarborough, ON",Scarborough,Ontario,M1V 0G2,CA,43.8125725,-79.2949245,,www.scarboroughcovidvaccineclinic.ca/,Not sure,Appoinment/Booking,Monday - Friday: 9 a.m - 5 p.m,-,18+ (Hotspot),
+The Mid-Scarborough Hub – SCHC,Scarborough Health Network,"2660 Eglinton Ave E, Scarborough, ON",Scarborough,Ontario,M1K 2S3,CA,43.7371903,-79.2505725,,www.scarboroughcovidvaccineclinic.ca/,Not sure,Appoinment/Booking,7 DAYS/WEEK 9 a.m - 7 p.m.,-,18+ (Hotspot),
+TAIBU Community Health Centre,Scarborough Health Network,"27 Tapscott Rd #1, Scarborough, ON",Scarborough,Ontario,M1B 4Y7,CA,43.8061498,-79.2205307,,www.scarboroughcovidvaccineclinic.ca/,Not sure,Appoinment/Booking,"Monday – Thursday: 9 a.m. ­– 8 p.m.
+Friday & Saturday: 9 a.m. – 5 p.m.",-,18+ (Hotspot),
+MICHAEL GARRON HOSPITAL,Michael Garron Hospital,"825 Coxwell Avenue, East York, ON",East York,Ontario,M4C 3E7,CA,43.6898713,-79.3248582,,https://www.tehn.ca/covid19/covid-19-vaccine,Not sure,Appoinment/Booking,,-,,
+JIMMIE SIMPSON RECREATION CENTRE,Michael Garron Hospital,"870 Queen Street East, Toronto, ON",Toronto,Ontario,M4M 3G9,CA,43.6600644,-79.3452488,,https://www.tehn.ca/covid19/covid-19-vaccine,Not sure,Appoinment/Booking,,-,,
+WARDEN HILLTOP COMMUNITY CENTRE,Michael Garron Hospital,"25 Mendelssohn Street, Scarborough, ON",Scarborough,Ontario,M1L 0G6,CA,43.7146723,-79.2806243,,https://www.tehn.ca/covid19/covid-19-vaccine,Not sure,Appoinment/Booking,,-,,
+Allcures Pharmacy,Pharmacy,"31 St. Dennis Drive, Unit 1, Toronto, ON",Toronto,Ontario,M3C 1G7,CA,43.7183786,-79.3300652,416-696-1400,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 7 p.m.
+Saturday: 10 a.m. to 3 p.m.
+Sunday: 11 a.m. to 3 p.m.",-,40+,
+Ava Pharmacy,Pharmacy,"81 St. Clair Avenue East, Unit 220, Toronto, ON",Toronto,Ontario,M4T 1M7,CA,43.6884774,-79.3907408,416-962-2111,avapharmacy.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 7 p.m.
+Saturday: 10 a.m. to 3 p.m ",-,40+,
+Bathurst Wilson I.D.A. Pharmacy,Pharmacy,"322 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3H 1S8,CA,43.7371923,-79.4366764,416-638-1755,www.guardian-ida-pharmacies.ca/en/ontario/downsview/bathurst-wilson-i-d-d-d-a-d-pharmacy-7014507,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 6 p.m.
+Saturday: 11 a.m. to 3 p.m",-,40+,
+Beaches Pharmacy,Pharmacy,"1967 Queen Street East, Toronto, ON",Toronto,Ontario,M4L 1H9,CA,43.6695158,-79.3014836,416-699-4999,beachespharmasave.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 9 a.m. to 3 p.m.",-,40+,
+Canada Chemists,Pharmacy,"1975 Avenue Road, Toronto, ON",Toronto,Ontario,M5M 4A3,CA,43.734785,-79.419593,416-440-8008,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 6 p.m.
+Saturday: 10 a.m. to 3 p.m.
+Sunday: closed",-,40+,
+Canadian Compounding Pharmacy,Pharmacy,"2920 Bloor Street West, Toronto, ON",Toronto,Ontario,M8X 1B6,CA,43.648507,-79.5072291,416-239-3566,www.medspharmacy.ca/canadian-compounding-pharmacy,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Care and Health Pharmacy,Pharmacy,"2928 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4C 1M1,CA,43.6901834,-79.2934675,,pharmabest.ca/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 7 p.m.
+Saturday: 10 a.m. to 3 p.m.
+Sunday: 11 a.m. to 2 p.m.",-,40+,
+Cassandra Pharmacy,Pharmacy,"2040 Victoria Park Avenue, Toronto, ON",Toronto,Ontario,M1R 1V2,CA,43.7524704,-79.3140955,416-449-2040,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 9 a.m. to 3 p.m.
+Sunday: closed",-,40+,
+City Pharmacy Remedy's Rx,Pharmacy,"238 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4K 1N4,CA,43.6770696,-79.3553891,416-469-1898,www.citypharmacy.ca/,AstraZeneca,Appoinment/Booking,"Monday - Thursday: 10 a.m. to 7 p.m.
+Friday: 10 a.m. to 6 p.m.
+Saturday: 10 a.m. to 4 p.m.",-,40+,
+Demarco Pharmacy,Pharmacy,"2394 Keele Street, Toronto, ON",Toronto,Ontario,M6M 4A5,CA,43.7082127,-79.4781558,416-244-5888,,Pfizer,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7:30 p.m.
+Saturday: 9 a.m. to 4 p.m.
+Sunday: closed",-,18+,
+Keele-Ingram Pharmacy,Pharmacy,"2221 Keele Street, Toronto, ON",Toronto,Ontario,M6M 3Z5,CA,43.6989823,-79.4755084,416-247-8618,www.pharmachoice.com/locations/keele-ingram/,Pfizer,Appoinment/Booking,"Monday - Friday: 8 a.m. to 7 p.m.
+Saturday: 8 a.m. to 5 p.m.",-,18+,
+Real Canadian Superstore,Pharmacy,"2549 Weston Road, Toronto, ON",Toronto,Ontario,M9N 2A7,CA,43.7095985,-79.5337277,416-246-1417,www.realcanadiansuperstore.ca/covid19,Pfizer,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,18+,
+Shoppers Drug Mart,Pharmacy,"565 Sherbourne Street, Unit 40, Toronto, ON",Toronto,Ontario,M4X 1W7,CA,43.6701586,-79.3756379,416-963-9495,covid-19.shoppersdrugmart.ca/en,Pfizer,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,18+,
+Drug Store Pharmacy,Pharmacy,"25 Photography Drive, Toronto, ON",Toronto,Ontario,M6M 0A1,CA,43.686662,-79.4839226,416-763-1502,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: closed",-,40+,
+Dundas West Village Pharmacy,Pharmacy,"2940 Dundas Street West, Toronto, ON",Toronto,Ontario,M6P 1Y8,CA,43.6656136,-79.4675601,416-761-9036,dundaswestpharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 11 a.m. to 5 p.m",-,40+,
+East York Pharmasave,Pharmacy,"840 Coxwell Avenue, Unit 102, Toronto, ON",Toronto,Ontario,M4C 5T2,CA,43.6900078,-79.326603,416-613-9511,pharmasave.com/toronto-east-york/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 9 a.m. to 5 p.m.",-,40+,
+Forest Hill Pharmacy,Pharmacy,"491 Eglinton Avenue West, Unit 102, Toronto, ON",Toronto,Ontario,M5N 1A8,CA,43.7034249,-79.4128462,416-619-7768,www.foresthillpharmacy.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Friendly Care West King Pharmacy,Pharmacy,"2077 Weston Road, Toronto, ON",Toronto,Ontario,M9N 1X7,CA,43.7022155,-79.5224508,416-248-4485,westkingpharmacy.com,Pfizer,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 6:30 p.m.
+Saturday - Sunday: 10 a.m. to 1 p.m.",-,18+,
+Glen Park Pharmacy,Pharmacy,"2920 Dufferin Street, Toronto, ON",Toronto,Ontario,M6B 3S8,CA,43.7085848,-79.4539933,416-256-1111,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 4 p.m.
+Saturday: 9 a.m. to 1 p.m.
+Sunday: closed",-,40+,
+Green Pharmacy,Pharmacy,"620A Bloor Street West, Toronto, ON",Toronto,Ontario,M6G 1K7,CA,43.6646663,-79.4141443,416-530-4004,www.pharmachoice.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 10 a.m. to 2 p.m",-,40+,
+Greendale Drugs,Pharmacy,"152 Carlton Street, Toronto, ON",Toronto,Ontario,M5A 2K1,CA,43.6630098,-79.3745838,416-967-6610,CareandCure.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 10 a.m. to 4 p.m.",-,40+,
+Healing Arts Pharmacy,Pharmacy,"170 The Donway West, Unit 113, Toronto, ON",Toronto,Ontario,M3C 2J2,CA,43.7354112,-79.3480078,416-444-2604,,AstraZeneca,Appoinment/Booking,"Sunday: closed
+Monday - Thursday: 9:30 a.m. to 7 p.m.
+Friday: 9:30 a.m. to 6 p.m.
+Saturday: 9:30 a.m. to 4 p.m.",-,40+,
+Healing Source Pharmacy,Pharmacy,"2209 Bloor Street West, Toronto, ON",Toronto,Ontario,M6S 1N5,CA,43.6510068,-79.4757716,416-769-1717,healingsourcepharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Thursday: 9 a.m. to 7 p.m.
+Friday: 9 a.m. to 6 p.m.
+Saturday: 9:30 a.m. to 3:30 p.m.",-,40+,
+High Park Pharmacy,Pharmacy,"1938 Bloor Street West, Toronto, ON",Toronto,Ontario,M6P 3K8,CA,43.6533747,-79.4667907,416-769-2222,www.medspharmacy.ca/high-park-pharmacy,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.",-,40+,
+Islington Medical Pharmacy,Pharmacy,"1243 Islington Avenue, Toronto, ON",Toronto,Ontario,M8X 1Y9,CA,43.6458499,-79.5235344,416-239-1243,islingtonmedicalpharmacy.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5:30 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Jarvis St. Apothecary,Pharmacy,"275 Jarvis Street, Toronto, ON",Toronto,Ontario,M5B 2C2,CA,43.6582621,-79.374726,416-792-1959,jarvis-st-apothecary.business.site/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6:30 p.m.
+Saturday: 9 a.m. to 5 p.m.",-,40+,
+Junction Chemist Pharmacy,Pharmacy,"17 St Johns Road, Toronto, ON",Toronto,Ontario,M6P 1T7,CA,43.6652578,-79.473926,647-748-3784,www.junctionchemist.com/,AstraZeneca,Appoinment/Booking,"Sunday: 11 a.m. to 3 p.m.
+Monday - Wednesday: 9 a.m. to 7 p.m.
+Thursday & Friday: 10 a.m. to 6 p.m.
+Saturday: 10 a.m. to 5 p.m.",-,40+,
+Junction Pharmacy,Pharmacy,"3016 Dundas Street West, Toronto, ON",Toronto,Ontario,M6P 1Z3,CA,43.6656651,-79.4699271,416-763-2394,www.medspharmacy.ca/junction-pharmacy,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 11 a.m. to 4 p.m.",-,40+,
+Lapsley Pharmacy,Pharmacy,"27 Lapsley Road, Toronto, ON",Toronto,Ontario,M1B 1K1,CA,43.7957493,-79.2261707,416-291-3773,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 7 p.m.
+Saturday: 8 a.m. to 5 p.m.",-,40+,
+Lawlor Pharmasave,Pharmacy,"944 Kingston Road, Toronto, ON",Toronto,Ontario,M4E 1S7,CA,43.6805978,-79.288133,,lawlor.medmeapp.ca/schedule/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Lefko Pharmasave #794,Pharmacy,"842 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3K 1E5,CA,43.7308124,-79.4673782,416-635-6802,ps794.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 6 p.m.
+Saturday: 10 a.m. to 3 p.m.",-,40+,
+Lingeman I.D.A. Pharmacy,Pharmacy,"411 Jane Street, Toronto, ON",Toronto,Ontario,M6S 3Z6,CA,43.6587064,-79.4880308,416-767-8409,www.guardian-ida-pharmacies.ca/en/ontario/toronto/lingeman-ida-pharmacy-7028510,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 7 p.m.
+Saturday: 9 a.m. to 4 p.m",-,40+,
+Loblaw,Pharmacy,"585 Queen Street West, Toronto, ON",Toronto,Ontario,M5V 2B7,CA,43.6473554,-79.4016963,,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 6 p.m.
+Saturday - Sunday: 10 a.m. to 5 p.m.",-,40+,
+Loblaw,Pharmacy,"396 St. Clair Avenue West, Toronto, ON",Toronto,Ontario,M5P 3N3,CA,43.6841477,-79.4153394,416-651-5145,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Loblaw,Pharmacy,"2280 Dundas Street West, Toronto, ON",Toronto,Ontario,M6R 1X4,CA,43.6556207,-79.4498001,416-533-0770,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 7 a.m. to 6 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Loblaw,Pharmacy,"11 Redway Road, Toronto, ON",Toronto,Ontario,M4H 1P6,CA,43.6990972,-79.3597232,416-425-8433,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Loblaw,Pharmacy,"5095 Yonge Street East, Toronto, ON",Toronto,Ontario,M2M 3V7,CA,43.7687022,-79.4123463,416-512-9436,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 10 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Loblaw,Pharmacy,"10 Lower Jarvis Street, Toronto, ON",Toronto,Ontario,M5E 1Z2,CA,43.6447705,-79.3701389,416-304-0619,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 7 a.m. to 7 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Loblaw,Pharmacy,"2877 Bayview Avenue, Toronto, ON",Toronto,Ontario,M2K 2S3,CA,43.76875,-79.387239,416-733-1350,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Loblaw,Pharmacy,"60 Carlton Street, Toronto, ON",Toronto,Ontario,M5B 1L1,CA,43.6621911,-79.3802435,416-593-1542,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 7 a.m. to 7 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Loblaw,Pharmacy,"17 Leslie Street, Toronto, ON",Toronto,Ontario,M4M 3H9,CA,43.6608701,-79.3284242,416-968-7283,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 9 a.m. to 5 p.m.",-,40+,
+Loblaw,Pharmacy,"50 Musgrave Street, Toronto, ON",Toronto,Ontario,M4E 3W2,CA,43.6885028,-79.2882397,416-694-6263,loblaws.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 7 a.m. to 7 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Main Drug Mart,Pharmacy,"1646 Victoria Park Avenue, Unit 7, Toronto, ON",Toronto,Ontario,M1R 1P7,CA,43.7309565,-79.3057989,416-752-9088,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 9 a.m. to 2 p.m.",-,40+,
+Markland Wood Pharmacy,Pharmacy,"4335 Bloor Street West, Toronto, ON",Toronto,Ontario,M9C 2A5,CA,43.6308387,-79.5757084,416-621-2000,www.marklandwoodpharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 4 p.m.
+Sunday: 12 p.m. (noon) to 4 p.m.",-,40+,
+Metro Drugs,Pharmacy,"129 Dundas Street East, Toronto, ON",Toronto,Ontario,M5B 2N6,CA,43.6565539,-79.3761617,416-363-7300,www.metrodrugs.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 6 p.m.
+Saturday - Sunday: 9 a.m. to 4 p.m.",-,40+,
+Metro Pharmacy,Pharmacy,"3003 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4C 1M9,CA,43.6896746,-79.2906481,,metropharmacy.medmeapp.com/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 7 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Morelli's Pharmacy,Pharmacy,"15 York Street, Toronto, ON",Toronto,Ontario,M5J 0A3,CA,43.6421609,-79.3806942,416-815-1200,morellis15yorkst.medmeapp.ca/schedule/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 6 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Mortar + Pestle Compounding Pharmacy,Pharmacy,"1997 Bloor Street West, Toronto, ON",Toronto,Ontario,M6S 1M4,CA,43.6521306,-79.4708218,416-901-8020,www.mortarpestle.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+New Caledonia Pharmacy,Pharmacy,"600 Caledonia Road, Toronto, ON",Toronto,Ontario,M6E 4V5,CA,43.6933118,-79.4623036,416-785-8385,,AstraZeneca,Appoinment/Booking,"Monday - Thurday: 9 a.m. to 6:30 p.m.
+Friday: 9 a.m. to 5 p.m.
+Saturday: 9 a.m. to 2:30 p.m.",-,40+,
+Nhatrang Drug Mart,Pharmacy,"736 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3K 1E2,CA,43.7315504,-79.4639874,416-635-1586,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 2 p.m. to 6:30 p.m.
+Saturday: 2 p.m. to 6:30 p.m.",-,40+,
+No Frills,Pharmacy,"25 Photography Drive, Toronto, ON",Toronto,Ontario,M6M 0A1,CA,43.686662,-79.4839226,416-763-1502,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: closed",-,40+,
+No Frills,Pharmacy,"222 Lansdowne Avenue, Toronto, ON",Toronto,Ontario,M6K 3C6,CA,43.649696,-79.4403251,416-588-7744,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+No Frills,Pharmacy,"449 Carlaw Avenue, Toronto, ON",Toronto,Ontario,M4K 3H9,CA,43.6688158,-79.3419791,416-462-0651,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+No Frills,Pharmacy,"200 Front Street East, Toronto, ON",Toronto,Ontario,M5A 4T9,CA,43.6514188,-79.3659472,416-363-6412,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+No Frills,Pharmacy,"1020 Islington Avenue, Toronto, ON",Toronto,Ontario,M8Z 4R3,CA,43.6315745,-79.5197196,416-234-1204,www.nofrills.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Nor-Arm Pharmacy,Pharmacy,"1280 Finch Avenue West, Unit 107, Toronto, ON",Toronto,Ontario,M3J 3K6,CA,43.7644571,-79.4887924,,norarmpharmacy.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6:30 p.m.",-,40+,
+Northcliffe Pharmacy,Pharmacy,"1751 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M6E 2H7,CA,43.6960021,-79.4478439,416-256-7888,www.guardian-ida-pharmacies.ca/en/ontario/toronto/northcliff-pharmacy-7023147,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 9 a.m. to 10 a.m.",-,40+,
+Pharmacare Drug Mart,Pharmacy,"891 Broadview Avenue, Toronto, ON",Toronto,Ontario,M4K 2P9,CA,43.680721,-79.3576452,416-424-1242,pharmacaredrugmart.square.site/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 5:30 p.m.
+Saturday: 9:30 a.m. to 2:30 p.m.",-,40+,
+Pharmasave,Pharmacy,"3485 Kingston Road, Toronto, ON",Toronto,Ontario,M1M 1R4,CA,43.7375271,-79.2173581,416-261-3346,,AstraZeneca,Appoinment/Booking,"Sunday: 11 a.m. to 4 p.m.
+Monday: 9:30 a.m. to 7 p.m.
+Tuesday - Friday: 9:30 a.m. to 8 p.m.
+Saturday: 10 a.m. to 6 p.m.",-,40+,
+Pharmasave - Spadina's Neighbourhood Pharmacy,Pharmacy,"720 Spadina Avenue, Unit 100, Toronto, ON",Toronto,Ontario,M5S 2T9,CA,43.6653855,-79.4034771,,spadinamedicalpharmacy.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Thursday: 9:30 a.m. to 6 p.m.
+Friday: 9:30 a.m. to 5:45 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Pharmasave Eagle Manor,Pharmacy,"1901 Weston Road, Toronto, ON",Toronto,Ontario,M9N 3P5,CA,43.7005399,-79.5161679,416-241-1115,eaglemanor.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 6 p.m",-,40+,
+Pharmasave Keele and Finch Pharmacy,Pharmacy,"1275 Finch Avenue West, Toronto, ON",Toronto,Ontario,M3J 2G5,CA,43.7639352,-79.4875255,647-349-2273,keeleandfinchpharmasave.medmeapp.ca/schedule,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 9 a.m. to 3 p.m.",-,40+,
+Pharmasave Toronto East,Pharmacy,"825 Coxwell Avenue, Unit C114, Toronto, ON",Toronto,Ontario,M4C 3E7,CA,43.6898713,-79.3248582,416-778-1221,www.tepharmasave.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 7:30 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Premier Pharmacy and Compounding Centre,Pharmacy,"3323 Bathurst Street, Toronto, ON",Toronto,Ontario,M6A 2B7,CA,43.725378,-79.4309518,647-347-1311,premierpharmacy.ca/,AstraZeneca,Appoinment/Booking,"Sunday: 10 a.m. to 3 p.m.
+Monday - Thursday: 9 a.m. to 6:30 p.m.
+Friday: 9 a.m. to 3 p.m.",-,40+,
+Real Canadian Superstore,Pharmacy,"51 Gerry Fitzgerald Drive, Toronto, ON",Toronto,Ontario,M3J 3N4,CA,43.7847425,-79.4716943,416-665-7636,covid19.realcanadiansuperstore.ca/en?navid=flyout-L1-COVID-19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Real Canadian Superstore,Pharmacy,"825 Don Mills Road, Toronto, ON",Toronto,Ontario,M3C 1V4,CA,43.7227042,-79.3375083,416-391-4847,www.realcanadiansuperstore.ca/covid19,AstraZeneca,Appoinment/Booking,"Monday - Friday: 7 a.m. to 8 p.m.
+Saturday: 7 a.m. to 6 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Real Canadian Superstore,Pharmacy,"2549 Weston Road, Toronto, ON",Toronto,Ontario,M9N 2A7,CA,43.7095985,-79.5337277,416-246-1417,www.realcanadiansuperstore.ca/covid199,Pfizer,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m",-,18+,
+Rexall,Pharmacy,"1235 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3M 0B2,CA,43.7237804,-79.4887557,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday - Sunday: 10 a.m. to 4 p.m.",-,40+,
+Rexall,Pharmacy,"325 Moore Avenue, Toronto, ON",Toronto,Ontario,M4G 3T6,CA,43.6966927,-79.369391,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 9 a.m. to 5 p.m.",-,40+,
+Rexall,Pharmacy,"481 Bloor Street West, Toronto, ON",Toronto,Ontario,M5S 1Y2,CA,43.6657664,-79.4071296,416-929-8213,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday - Sunday: 8 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"345 Bloor Street, Unit 3, Toronto, ON",Toronto,Ontario,M4W 1H7,CA,43.6719243,-79.3782579,416-923-5962,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 9 p.m.
+Saturday - Sunday: 8 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"285 Spadina Avenue, Toronto, ON",Toronto,Ontario,M5T 2E6,CA,43.6532479,-79.3978375,416-596-1602,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 8 p.m.,-,40+,
+Rexall,Pharmacy,"3402 Yonge Street,Toronto, ON",Toronto,Ontario,M4N 2M9,CA,43.7330711,-79.4042829,416-544-0746,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 9 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m",-,40+,
+Rexall,Pharmacy,"3701 Lake Shore Boulevard West, Toronto, ON",Toronto,Ontario,M8W 1P8,CA,43.5930846,-79.5384814,416-259-3777,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 9 p.m.
+Sunday: 9 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"87 Avenue Road, Toronto, ON",Toronto,Ontario,M5R 3R9,CA,43.6719078,-79.3948697,416-922-5555,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"63 Front Street East, Toronto, ON",Toronto,Ontario,M5E 1B3,CA,43.6482103,-79.3738649,416-607-6387,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 9 p.m.
+Saturday - Sunday: 8 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"4789 Yonge Street, Unit 2, Toronto, ON",Toronto,Ontario,M2N 0G3,CA,43.7613561,-79.4102084,416-733-0161,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 10 p.m.
+Saturday - Sunday: 9 a.m. to 10 p.m.",-,40+,
+Rexall,Pharmacy,"199 Bay Street, Unit C186, Toronto, ON",Toronto,Ontario,M5L 1E7,CA,43.6481342,-79.3794903,416-365-0972,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m.,-,40+,
+Rexall,Pharmacy,"474 Spadina Avenue, Toronto, ON",Toronto,Ontario,M5T 2G8,CA,43.6577255,-79.400333,416-413-1060,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Rexall,Pharmacy,"595 Bay Street, Toronto, ON",Toronto,Ontario,M5G 2C2,CA,43.6562198,-79.3832909,416-591-1414,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m.,-,40+,
+Rexall,Pharmacy,"539 Parliament Street, Toronto, ON",Toronto,Ontario,M4X 1P7,CA,43.6661388,-79.3683352,416-926-1658,www.rexall.ca/covid-19/vaccines,Pfizer,Appoinment/Booking,Monday - Sunday: 9 a.m. to 9 p.m.,-,18+,
+Rexall,Pharmacy,"600 University Avenue, Toronto, ON",Toronto,Ontario,M5G 1X5,CA,43.6575156,-79.3901743,416-977-0408,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday - Sunday: 10 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"2 St. Clair Avenue East, Unit C001, Toronto, ON",Toronto,Ontario,M4T 2T5,CA,43.6884661,-79.3938,416-921-2171,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 8 p.m.
+Saturday: 8 a.m. to 8 p.m.
+Sunday: 9 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"63 Wellesley Street East, Toronto, ON",Toronto,Ontario,M4Y 1G7,CA,43.6653729,-79.3811801,416-924-7760,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Rexall,Pharmacy,"250 University Avenue, Unit 120 Toronto, ON",Toronto,Ontario,M5H 3E5,CA,43.6505493,-79.3870518,416-591-6493,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Rexall,Pharmacy,"88 Queens Quay West, Toronto, ON",Toronto,Ontario,M5J 0B8,CA,43.6410825,-79.3787196,416-607-5552,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 6 p.m,-,40+,
+Rexall,Pharmacy,"200 Wellington Street West, Unit 200, Toronto, ON",Toronto,Ontario,M5V 3C7,CA,43.6459076,-79.3878224,416-979-1206,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m.,-,40+,
+Rexall,Pharmacy,"120 Adelaide Street West, Unit R28, Toronto, ON",Toronto,Ontario,M5H 1T1,CA,43.6497566,-79.3830492,416-368-2743,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m,-,40+,
+Rexall,Pharmacy,"2300 Yonge Street Toronto, ON",Toronto,Ontario,M4P 1E4,CA,43.7072693,-79.3996009,416-484-4540,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Rexall,Pharmacy,"1245 Dupont Street, Toronto, ON",Toronto,Ontario,M6H 2A6,CA,43.6676544,-79.4420834,416-537-0805,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 10 p.m.
+Saturday: 8 a.m. to 9 p.m.
+Sunday: 8 a.m. to 7 p.m.",-,40+,
+Rexall,Pharmacy,"777 Bay Street, Unit C 216, Toronto, ON",Toronto,Ontario,M5G 2C8,CA,43.6606503,-79.3854781,416-977-5824,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Rexall,Pharmacy,"1 First Canadian Place, Unit CN1038, Toronto, ON",Toronto,Ontario,M5X 1C8,CA,43.648566,-79.381807,416-362-6480,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m.,-,40+,
+Rexall,Pharmacy,"1115 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3M 1H2,CA,43.725741,-79.4830004,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday - Sunday: 9 a.m. to 6 p.m.",-,40+,
+Rexall,Pharmacy,"901 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M6C 2C1,CA,43.7004362,-79.427079,,www.rexall.ca/covid-19/vaccines,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Rylander Pharmasave,Pharmacy,"6758 Kingston Road, Unit 8, Toronto, ON",Toronto,Ontario,M1B 1G8,CA,43.7984704,-79.1481948,,rylanderpharmasave.medmeapp.ca/schedule/614,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 9 a.m. to 3 p.m.",-,40+,
+Sam's I.D.A. Pharmacy,Pharmacy,"1920 Yonge Street, Toronto, ON",Toronto,Ontario,M4S 3E2,CA,43.6987992,-79.3972615,416-483-3003,www.guardian-ida-pharmacies.ca/en/ontario/toronto/sams-ida-pharmacy-7008620,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 5 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Sanomed Pharmacy & Compounding Centre,Pharmacy,"1000 Bay Street, Toronto, ON",Toronto,Ontario,M5S 3A8,CA,43.6650475,-79.387829,416-923-7770,sanomedpharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday: 10 a.m. to 4 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"1533 Jane Street, Toronto, ON",Toronto,Ontario,M9N 2R2,CA,43.6971001,-79.5014085,,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 9 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"1515 Steeles Avenue East, Toronto, ON",Toronto,Ontario,M2M 3Y7,CA,43.8046408,-79.3846555,,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 10 p.m.
+Saturday: 9 a.m. to 10 p.m.
+Sunday: 10 a.m. to 10 p.m",-,40+,
+Shoppers Drug Mart,Pharmacy,"4865 Leslie Street, Toronto, ON",Toronto,Ontario,M2J 2K8,CA,43.7792498,-79.3645956,416-493-7977,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"70 Eglinton Square Boulevard, Toronto, ON",Toronto,Ontario,M1L 2K1,CA,43.724034,-79.300677,416-757-1131,covid-19.shoppersdrugmart.ca/en,Pfizer,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,18+,
+Shoppers Drug Mart,Pharmacy,"1473 Queen Street West, Toronto, ON",Toronto,Ontario,M6R 1A1,CA,43.639897,-79.4390485,416-530-2799,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 9 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"1033 Queen Street West, Unit A, Toronto, ON",Toronto,Ontario,M6J 0A6,CA,43.6438493,-79.419533,416-516-5756,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m,-,40+,
+Shoppers Drug Mart,Pharmacy,"18 Jarvis Street, Toronto, ON",Toronto,Ontario,M5E 1N1,CA,43.6507157,-79.3721822,416-203-3700,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"333 Bay Street, Toronto, ON",Toronto,Ontario,M5H 2R2,CA,43.6503406,-79.3805207,416-304-1151,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 4 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"235 Danforth Avenue, Unit 101, Toronto, ON",Toronto,Ontario,M4K 1N2,CA,43.6767537,-79.3553553,416-778-7780,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday - Sunday: 10 a.m. to 3 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"260 Queen Street West, Toronto, ON",Toronto,Ontario,M5V 1Z8,CA,43.6498673,-79.3918351,416-979-3903,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"465 Yonge Street, Toronto, ON",Toronto,Ontario,M4Y 1X4,CA,43.6618227,-79.3830287,416-408-4000,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"181 Bay Street, Toronto, ON",Toronto,Ontario,M5J 2T3,CA,43.6469771,-79.379275,416-777-1300,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Friday: 9 a.m. to 5 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"55 Bloor Street West, Toronto, ON",Toronto,Ontario,M4W 1A5,CA,43.6695878,-79.3886243,416-925-6949,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 7 p.m.
+Saturday - Sunday: 10 a.m. to 4 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"812 O'Connor Drive, Toronto, ON",Toronto,Ontario,M4B 2S9,CA,43.7058539,-79.3128279,416-285-5822,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 9 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"524 Queen Street West, Toronto, ON",Toronto,Ontario,M5V 2B5,CA,43.647818,-79.4023038,416-703-0228,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"2494 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4C 1K9,CA,43.6882324,-79.3035346,416-698-1888,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 9 p.m.
+Sunday: 10 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"1840 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M6E 2J4,CA,43.6958261,-79.4509313,416-256-6199,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"2343 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M6E 2L6,CA,43.6926252,-79.4627417,416-651-7111,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"200 Bay Street, Toronto, ON",Toronto,Ontario,M5J 2J3,CA,43.6465177,-79.3800808,416-865-0001,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 5 p.m.
+Saturday: 10 a.m. to 4 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"4700 Keele Street, Toronto, ON",Toronto,Ontario,M3J 1P3,CA,43.7742707,-79.4931323,416-514-0993,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 10 a.m. to 6 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"1860 Bayview Avenue, Unit 101, Toronto, ON",Toronto,Ontario,M4G 0C3,CA,43.7140566,-79.3778586,416-482-9841,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"3401 Dufferin Street, Toronto, ON",Toronto,Ontario,M6A 2T9,CA,43.7251083,-79.4528087,416-789-1201,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 11 a.m. to 7 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"2440 Dundas Street West, Toronto, ON",Toronto,Ontario,M6P 1W9,CA,43.6592201,-79.4530285,416-536-0220,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 8 p.m.
+Sunday: 9 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"45 Overlea Boulevard, Toronto, ON",Toronto,Ontario,M4H 1C3,CA,43.7057953,-79.3460276,416-421-5141,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 12 a.m. (midnight)
+Saturday: 9 a.m. to 12 a.m. (midnight)
+Sunday: 10 a.m. to 12 a.m. (midnight)",-,40+,
+Shoppers Drug Mart,Pharmacy,"761 King Street West, Toronto, ON",Toronto,Ontario,M5V 1N4,CA,43.6431005,-79.4058916,416-306-0311,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"725 College Street, Toronto, ON",Toronto,Ontario,M6G 1C5,CA,43.654263,-79.4189143,416-534-2375,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"2528 Bayview Avenue, Toronto, ON",Toronto,Ontario,M2L 1A9,CA,43.7470647,-79.3849562,416-444-8411,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 10 p.m.
+Saturday - Sunday: 9 a.m. to 10 p.m",-,40+,
+Shoppers Drug Mart,Pharmacy,"2047 Avenue Road, Toronto, ON",Toronto,Ontario,M5M 4A7,CA,43.7362764,-79.4197057,416-789-1122,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 9 p.m.
+Saturday - Sunday: 8 a.m. to 7 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"3366 Yonge Street, Toronto, ON",Toronto,Ontario,M4N 2M7,CA,43.7323488,-79.4045109,416-483-3018,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"69 Yonge Street, Toronto, ON",Toronto,Ontario,M5E 1K3,CA,43.649001,-79.3776402,416-364-1948,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 7 p.m.
+Saturday: 9 a.m. to 4 p.m.
+Sunday: 11 a.m. to 4 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"565 Sherbourne Street, Unit 40, Toronto, ON",Toronto,Ontario,M4X 1W7,CA,43.6701586,-79.3756379,416-963-9495,covid-19.shoppersdrugmart.ca/en,Pfizer,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m,-,18+,
+Shoppers Drug Mart,Pharmacy,"20 Bloor Street East, Toronto, ON",Toronto,Ontario,M4W 3G7,CA,43.6708929,-79.3867082,416-967-7787,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday - Sunday: 11 a.m. to 6 p.m",-,40+,
+Shoppers Drug Mart,Pharmacy,"1859 Leslie Street, Toronto, ON",Toronto,Ontario,M3B 2M1,CA,43.754517,-79.359184,416-383-9599,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"236 Bloor Street West, Toronto, ON",Toronto,Ontario,M5S 1T8,CA,43.6683598,-79.3967611,416-927-0440,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"958 Bloor Street West, Toronto, ON",Toronto,Ontario,M6H 1L6,CA,43.6616319,-79.428763,416-538-0105,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 9 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"620 Keele Street, Toronto, ON",Toronto,Ontario,M6N 3E2,CA,43.6717349,-79.4676787,416-766-3095,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 10 p.m.
+Saturday: 9 a.m. to 10 p.m.
+Sunday: 9 a.m. to 6 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"292 Dupont Street, Toronto, ON",Toronto,Ontario,M5R 1V9,CA,43.6749503,-79.4080207,416-972-0232,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1015 Lakeshore Boulevard East, Toronto, ON",Toronto,Ontario,M4M 1B4,CA,43.6582347,-79.3287763,416-461-0565,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"2000 Queen Street East, Toronto, ON",Toronto,Ontario,M4L 1J2,CA,43.6701805,-79.3002078,416-694-0471,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"1507 Yonge Street, Toronto, ON",Toronto,Ontario,M4T 1Z2,CA,43.6893843,-79.3941999,416-923-7700,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"759 Mount Pleasant Road, Toronto, ON",Toronto,Ontario,M4S 2N4,CA,43.7077315,-79.3895818,416-482-7100,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"755 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4J 1L2,CA,43.6791604,-79.3422515,416-461-7533,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"180 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4K 1N1,CA,43.6768251,-79.3570281,416-466-5698,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m,-,40+,
+Shoppers Drug Mart,Pharmacy,"66 Wellington Street West, Unit 10, Toronto, ON",Toronto,Ontario,M5K 1A1,CA,43.6476696,-79.3810141,416-365-0927,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Friday: 8 a.m. to 5 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"1500 Woodbine Avenue, Toronto, ON",Toronto,Ontario,M4C 4G9,CA,43.6992126,-79.3193571,416-429-2529,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"523 St. Clair Avenue West, Toronto, ON",Toronto,Ontario,M6C 1A1,CA,43.6827442,-79.4191262,416-538-1155,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"2223 Bloor Street West, Toronto, ON",Toronto,Ontario,M6S 1N7,CA,43.6506064,-79.4764527,416-769-1105,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 10 p.m.
+Saturday: 8 a.m. to 10 p.m.
+Sunday: 9 a.m. to 10 p.m.",-,40+,
+Shoppers Drug Mart,Pharmacy,"1500 Avenue Road, Toronto, ON",Toronto,Ontario,M5M 3X2,CA,43.722525,-79.4161207,416-781-6146,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"1084 Wilson Avenue, Toronto, ON",Toronto,Ontario,M3K 1G6,CA,43.7282615,-79.4808439,416-633-9884,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,"Monday - Friday: 8 a.m. to 12 a.m. (midnight)
+Saturday: 8 a.m. to 12 a.m. (midnight)
+Sunday: 9 a.m. to 12 a.m. (midnight)",-,40+,
+Shoppers Drug Mart,Pharmacy,"2345 Yonge Street, Toronto, ON",Toronto,Ontario,M4P 1E4,CA,43.7089492,-79.3978503,416-487-5411,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,24 HOURS/7 DAYS,-,40+,
+Shoppers Drug Mart,Pharmacy,"970 Queen Street East, Toronto, ON",Toronto,Ontario,M4M 1J8,CA,43.6612056,-79.3406589,416-462-0062,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"279 Yonge Street, Toronto, ON",Toronto,Ontario,M5B 1N8,CA,43.6556497,-79.380301,416-591-1733,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"388 King Street West, Toronto, ON",Toronto,Ontario,M5V 1K2,CA,43.6462412,-79.3926619,416-597-6550,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"390 Queen's Quay West, Unit 110, Toronto, ON",Toronto,Ontario,M5V 3A6,CA,43.638124,-79.390814,416-260-2766,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1090 King Street West, Toronto, ON",Toronto,Ontario,M6K 0C7,CA,43.6401606,-79.422434,416-977-4101,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"360A Bloor Street West, Toronto, ON",Toronto,Ontario,M5S 1X1,CA,43.6665441,-79.4050565,416-961-2121,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1400 Dupont Street, Toronto, ON",Toronto,Ontario,M6H 2B2,CA,43.6667712,-79.4473799,416-532-9214,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"3446 Dundas Street West, Toronto, ON",Toronto,Ontario,M6S 2S1,CA,43.6661678,-79.4867346,416-766-8131,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Shoppers Drug Mart,Pharmacy,"1027 Yonge Street, Toronto, ON",Toronto,Ontario,M4W 2K9,CA,43.6776412,-79.3894544,416-961-0155,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 10 p.m.,-,40+,
+Shoppers Drug Mart,Pharmacy,"1630 Danforth Avenue, Toronto, ON",Toronto,Ontario,M4C 1H6,CA,43.683901,-79.3221898,416-461-2453,covid-19.shoppersdrugmart.ca/en,AstraZeneca,Appoinment/Booking,Monday - Sunday: 8 a.m. to 12 a.m. (midnight),-,40+,
+Snowden Pharmacy,Pharmacy,"264 Bloor Street West, Toronto, ON",Toronto,Ontario,M5S 1V8,CA,43.6675767,-79.4002614,416-922-2156,www.snowdoncompounding.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Sobeys Pharmacy Rosebury,Pharmacy,"145 Marlee Avenue, Toronto, ON",Toronto,Ontario,M6B 3H3,CA,43.7028027,-79.4412533,416-781-0606,www.pharmacyappointments.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Symington Pharmacy,Pharmacy,"333 Symington Avenue, Toronto, ON",Toronto,Ontario,M6P 3X1,CA,43.6664699,-79.4512356,416-533-9695,www.symingtonpharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Thursday: 10 a.m. to 6 p.m.
+Friday: 10 a.m. to 5:30 p.m.
+Saturday: 10 a.m. to 3 p.m",-,40+,
+The Medicine Shoppe Pharmacy,Pharmacy,"794 Sheppard Avenue East, Toronto, ON",Toronto,Ontario,M2K 1C3,CA,43.7701502,-79.3748452,416-222-7701,,AstraZeneca,Appoinment/Booking,"Monday: 10 a.m. to 5 p.m.
+Tuesday: 10 a.m. to 5 p.m.
+Wednesday: 10 a.m. to 4 p.m.
+Thursday: 10 a.m. to 5 p.m.
+Friday: 10 a.m. to 4 p.m.
+Saturday: 11 a.m. to 2 p.m.",-,40+,
+The Medicine Shoppe Pharmacy,Pharmacy,"2600 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M6M 1T5,CA,43.6908356,-79.4729896,416-651-6511,www.medicineshoppe.ca/en/ontario/toronto/the-medicine-shoppe-pharmacy-134-7014226,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 9 a.m. to 1 p.m.",-,40+,
+Total Health Pharmacy,Pharmacy,"997 Gerrard Street East, Toronto, ON",Toronto,Ontario,M4M 1Z4,CA,43.6685011,-79.3380405,647-351-3784,pharmaconnect.ca/Appointment/ff38dc2c-4b68-479a-a6a5-5c0f6bd992c5,AstraZeneca,Appoinment/Booking,"Monday - Friday: 10 a.m. to 6 p.m.
+Saturday: 10 a.m. to 4 p.m.
+",-,40+,
+Uptown Pharmacy,Pharmacy,"243 Eglinton Avenue West, Toronto, ON",Toronto,Ontario,M4R 1B1,CA,43.7048167,-79.4066513,416-485-5005,www.bookmyshot.com/416-485-5005,AstraZeneca,Appoinment/Booking,"Sunday: closed
+Monday: 9 a.m. to 6 p.m.
+Tuesday: 9 a.m. to 7 p.m.
+Wednesday - Friday: 9 a.m. to 6 p.m.
+Saturday: 10 a.m. to 2 p.m.",-,40+,
+Victoria Park Pharmacy,Pharmacy,"1314 Victoria Park Avenue, Toronto, ON",Toronto,Ontario,M4B 2L4,CA,43.7139063,-79.2984113,416-752-0888,www.victoriaparkpharmacy.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 6:30 p.m.
+Saturday: 9:30 a.m. to 3 p.m.",-,40+,
+Vina Pharmacy,Pharmacy,"1025 Gerrard Street East, Toronto, ON",Toronto,Ontario,M4M 1Z6,CA,43.6686901,-79.3372617,416-469-5386,,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9:30 a.m. to 7 p.m.
+Saturday: 10:30 a.m. to 3 p.m.",-,40+,
+Wal-Mart Pharmacy,Pharmacy,"2202 Jane Street, Toronto, ON",Toronto,Ontario,M3M 1A4,CA,43.7224301,-79.510771,,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 10 p.m.,-,40+,
+Wal-Mart Pharmacy,Pharmacy,"2245 Islington Avenue, Toronto, ON",Toronto,Ontario,M9W 3W7,CA,43.7138049,-79.5531438,,www.walmart.ca/en/covid19-vaccinations-centre-infoo,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Wal-Mart Pharmacy,Pharmacy,"1305 Lawrence Avenue West, Toronto, ON",Toronto,Ontario,M6L 1A5,CA,43.7085041,-79.4733767,,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Wal-Mart Pharmacy,Pharmacy,"2525 St. Clair Avenue West, Toronto, ON",Toronto,Ontario,M6N 4Z5,CA,43.6680541,-79.4845815,416-763-1867,www.walmart.ca/en/covid19-vaccinations-centre-info,AstraZeneca,Appoinment/Booking,Monday - Sunday: 7 a.m. to 11 p.m.,-,40+,
+Welcome Guardian Drugs (Roncesvalles),Pharmacy,"137 Roncesvalles Avenue, Toronto, ON",Toronto,Ontario,M6R 2L2,CA,43.6433558,-79.4474712,416-533-2088,roncesvallesguardianpharmacy.com/,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 9 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Welcome Guardian Pharmacy,Pharmacy,"1881 Yonge Street, Toronto, ON",Toronto,Ontario,M4S 3C4,CA,43.6976717,-79.3960999,416-480-1420,www.davisvilleguardianpharmacy.ca,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 8 p.m.
+Saturday: 9 a.m. to 6 p.m.
+Sunday: 10 a.m. to 5 p.m.",-,40+,
+Well+Good Pharmacy,Pharmacy,"557 Church Street, Toronto, ON",Toronto,Ontario,M4Y 2E2,CA,43.6672314,-79.3812547,416-532-5007,wellandgoodpharmacy.com,AstraZeneca,Appoinment/Booking,"Monday - Friday: 9 a.m. to 6 p.m.
+Saturday: 9 a.m. to 4 p.m.",-,40+,
+Weston Jane Pharmacy,Pharmacy,"1292 Weston Road, Toronto, ON",Toronto,Ontario,M6M 4R3,CA,43.6890937,-79.4957704,647-344-9111,,Pfizer,Appoinment/Booking,"Monday - Friday: 10 a.m. to 6 p.m.
+Saturday: 9 a.m. to 1 p.m.",-,18+,
