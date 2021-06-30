@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop-up Vaccination Locator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        <div class="nav-container">
+            <div class="wrapper">
+                <div class="nav">
+                    <div class="logo">
+                        <img class="logos" src="images/logo.png" alt = "logo"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-container">
+            <div class="wrapper">
+                
+                <div class="welcome-message">
+                    <picture>
+                        <source srcset="images/resized-welcome.png" media="(max-width: 680px)" width = "100%">
+                        <source srcset="images/Find-your-Nearest-Pop-up-Clinic-Get-Vaccinated.png" width = "100%">
+                        <img src="images/Find-your-Nearest-Pop-up-Clinic-Get-Vaccinated.png" alt="Flowers">
+                    </picture>
+                </div>
+
+                <div class="instructions">
+                    <p class="inst" id="why-1">Enter the first 3 characters of your postal code followed by:</p>
+                    <p class = "inst" id="why">
+                        <ul>
+                            <li>a 1 if you are getting 1st dose <p>(eg: M1B1)</p></li>
+                            <li>a 2 if you are getting 2nd dose <p>(eg: M1B2)</p></li>
+                        </ul>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="search">
+            <div class="wrapper">
+                <div class="search-box">
+                    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Enter (e.g M1L2, M4A1)" title="Type in a name">
+                </div>
+                
+                <div class="search-btn">
+                    <a href="#information">
+                        <picture>
+                            <source srcset="images/btn_search.png" media="(max-width: 680px)" width = "90%">
+                            <source srcset="images/btn_search.png">
+                            <img src="images/btn_search.png" alt="Flowers">
+                        </picture>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div id= "information" class="information">
+        <div class="wrapper">
+            <div class="message-two">
+                <!--<img src="images/rectangle-info.png" alt="Snow" style="width:100%;">-->
+                <picture>
+                    <source srcset="images/rectangle-resized.png" media="(max-width: 680px)" width = "90%">
+                    <source srcset="images/rectangle-info.png" width = "100%">
+                    <img src="images/rectangle-info.png" alt="Flowers">
+                  </picture>
+            </div>
+
+            <div class="message-one">
+                <h1><u>Here are some Vaccine clinics you are Eligible for:</u></h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="le-beau">
+        <div class="wrapper">
+            <ul class = "box" id="myUL">
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M1B2, M1G2, M1J2, M1K2, M1L2, M1R2, M1S2, M1T2]</a>
+                    <h1>St. Nicholas Greek Orthodox Church (Pop-Up)</h1>
+                    <h2>3840 Finch Ave East</h2>
+                    <br>
+                    <h3>Pfizer - Walk-in - 1st and 2nd Dose</h3>
+                    <p>Wednesday, June 30th (11 a.m to 7 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Scarborough (M1 Postal Codes)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M1B, M1G, M1J, M1K, M1L, M1R, M1S and M1T</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.scarboroughcovidvaccineclinic.ca/">www.scarboroughcovidvaccineclinic.ca</a>
+                    <br>
+                </li>
+        
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M1B2, M1G2, M1J2, M1K2, M1L2, M1R2, M1S2, M1T2]</a>
+                    <h1>David and Mary Thomson Collegiate Institute (Pop-Up)</h1>
+                    <h2>125 Brockley Drive</h2>
+                    <br>
+                    <h3>Pfizer - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Thursday, July 2nd (10 a.m to 6 p.m) or when supply finishes</p>
+                    <p>Friday, July 3rd (10 a.m to 6 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Scarborough (M1 Postal Codes)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M1B, M1G, M1J, M1K, M1L, M1P, M1R and M1S</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.scarboroughcovidvaccineclinic.ca/">www.scarboroughcovidvaccineclinic.ca</a>
+                    <br>
+                </li>
+        
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1]</a>
+                    <h7 hidden>[M1B2, M1G2, M1J2, M1K2, M1L2, M1R2, M1S2, M2R2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4H2, M6M2, M6N2, M9L2, M9M2, M9N2, M9R2, M9V2, M9W2]</h7>
+                    <h1>Warden Hilltop Community Centre (Pop-Up)</h1>
+                    <h2>25 Mendelssohn Street</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Tuesday, June 29 (8 a.m to 8 p.m) or when supply finishes</p>
+                    <p>Wednesday, June 30 (8 a.m to 4 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M1B, M1G, M1J, M1K, M1L, M1R, M1S, M2R, M3J, M3K, M3L, M3M, M3N, M4A, M4H, M6M, M6N, M9L, M9M, M9N, M9R, M9V, M9W</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.tehn.ca/covid19/covid-19-vaccine/mobile-and-pop-vaccine-clinics-east-toronto">https://www.tehn.ca/covid19/covid-19-vaccine/mobile-and-pop-vaccine-clinics-east-toronto</a>
+                    <br>
+                </li>
+        
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1L2]</a>
+                    <h1>Taylor Creek Public School (Pop-Up)</h1>
+                    <h2>644 Warden Avenue</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Tuesday, June 29 (3 p.m to 7 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M1L</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.tehn.ca/covid19/covid-19-vaccine/mobile-and-pop-vaccine-clinics-east-toronto">https://www.tehn.ca/covid19/covid-19-vaccine/mobile-and-pop-vaccine-clinics-east-toronto</a>
+                    <br>
+                </li>
+        
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M6M2, M6N2, M9N2, M1S2, M1B2, M1G2, M1J2, M3K2, M3M2, M3J2, M3N2, M3L2, M4A2, M4H2, M9L2, M9M2, M9W2, M9V2, M9R2, M2R2, M1R2, M1K2, M1L2, M6A2]</a>
+                    <h1>John Polanyi Collegiate Institute (Pop-Up)</h1>
+                    <h2>640 Lawrence Avenue West</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Tuesday, June 29 (11 a.m to 9 p.m) or when supply finishes</p>
+                    <p>Wednesday, June 30 (11 a.m to 9 p.m) or when supply finishes</p>
+                    <p>Friday, July 2nd (11 a.m to 9 p.m) or when supply finishes</p>
+                    <p>Saturday, July 3rd (1 p.m to 9 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M6M, M6N, M9N, M1S, M1B, M1G, M1J, M3K, M3M, M3J, M3N, M3L, M4A, M4H, M9L, M9M, M9W, M9V, M9R, M2R, M1R, M1K, M1L, M6A</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.womenscollegehospital.ca/covid19/mobile-vaccine-clinics/">https://www.womenscollegehospital.ca/covid19/mobile-vaccine-clinics/</a>
+                    <br>
+                    <br>
+                    <p>Please Note: If getting 2nd dose, you must have recieved mRNA 1st shot at least 28 days before to book a 2nd shot appointment</p>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M9L2, M9M2, M9N2, M3J2, M3K2, M3L2, M9R2, M9V2, M9W2, M3M2, M3N2, M1B2, M6M2, M6N2, M4A2, M4H2 M1G2, M1J2, M1K2, M1R2, M1S2, M2R2]</a>
+                    <h1>CW Jefferys (Pop-Up)</h1>
+                    <h2>340 Sentinel Road</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Wednesday, June 30 (12 p.m to 8 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M9L, M9M, M9N, M3J, M3K, M3L, M9R, M9V, M9W, M3M, M3N, M1B, M6M, M6N, M4A, M4H, M1G, M1J, M1R, M1S, M2R</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.bcchc.com/community-vaccine-clinics/">https://www.bcchc.com/community-vaccine-clinics/</a>
+                    <br>
+                    <br>
+                    <p>Please Note: If getting 2nd dose, you must have recieved mRNA 1st shot at least 28 days before to book a 2nd shot appointment</p>
+                </li>
+        
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M2R2, M3J2, M3K2, M3L2, M3M2, M3N2, M6M2, M6N2, M9L2, M9M2, M9N2, M9V2, M9W2, M9R2]</a>
+                    <h1>Downsview Arena (Pop-Up)</h1>
+                    <h2>1633 Willson Avenue</h2>
+                    <br>
+                    <h3>Pfizer - Walk-in - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Tuesday, June 29 (10 a.m to 6 p.m) or when supply finishes</p>
+                    <p>Wednesday, June 30 (10 a.m to 6 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <p>2nd dose to those 12+ who live, work, go to school in:  M2R, M3J, M3K, M3L, M3M, M3N, M6M, M6N, M9L, M9M, M9N, M9V, M9W, M9R</p>
+                    <br>
+                    <p>For more information, please visit:</p>
+                    <a href="https://www.hrh.ca/covax-clinic/">https://www.hrh.ca/covax-clinic/</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M2H1, M2J1, M2H2, M2J1]</a>
+                    <h1>Pleasantview Community Centre (Pop-Up)</h1>
+                    <h2>545 Van Horne Ave</h2>
+                    <br>
+                    <h3>Pfizer - Appointment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Tuesday, June 29 (8:30 a.m to 3 p.m) or when supply finishes</p>
+                    <p>Wednesday, June 30 (8:30 a.m to 3 p.m) or when supply finishes</p>
+                    <br>
+                    <p>1st dose and 2nd dose to those 12+ live in M2H, M2J</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://www.nygh.on.ca/covid19vaccination">https://www.nygh.on.ca/covid19vaccination</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Sunnybrook Health Science Centre (Hopsital)</h1>
+                    <h2>2075 Bayview Avenue</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appoinment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>1st dose and 2nd dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://sunnybrook.ca/content/?page=novel-coronavirus-covid-19-vaccine-information">https://sunnybrook.ca/content/?page=novel-coronavirus-covid-19-vaccine-information</a>
+                    <br>
+                    <br>
+                    <p>Please Note: If getting 2nd dose, you must have recieved mRNA 1st shot at least 28 days before to book a 2nd shot appointment</p>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>North York General Hospital (Hopsital)</h1>
+                    <h2>4001 Leslie Avenue</h2>
+                    <br>
+                    <h3>Pfizer & Moderna Appointment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>Mondays and Thursday (18+ Moderna) (8 a.m to 3 p.m) or when supply finishes</p>
+                    <p>Tuesdays, Wednesdays, Fridays (12+ Pfizer) (8 a.m to 3 p.m) or when supply finishes</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://www.nygh.on.ca/covid19vaccination">https://www.nygh.on.ca/covid19vaccination</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Michael Garron Hospital/East Toronto Health Partners</h1>
+                    <h2>Multiple Locations</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appointment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p> -  Michael Garron Hospital (825 Coxwell Avenue)</p>
+                    <p> -  Warden Hilltop Community Centre (25 Mendelssohn Street)</p>
+                    <p> -  JIMMIE SIMPSON RECREATION CENTRE (870 Queen Street East)</p>
+                    <p> -  Thorncliffe Park Community Hub (45 Overlea Blvd)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://www.tehn.ca/covid19/covid-19-vaccine/covid-19-immunization-clinics-east-toronto">https://www.tehn.ca/covid19/covid-19-vaccine/covid-19-immunization-clinics-east-toronto</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Wellesley Community Centre</h1>
+                    <h2>495 Sherbourne Street</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appoinment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>1st dose and 2nd dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://uht-public.vertoengage.com/engage/generic-open-clinic?key=b6f65518-d5bc-4113-b7ed-ee33f7574929">https://uht-public.vertoengage.com/engage/generic-open-clinic?key=b6f65518-d5bc-4113-b7ed-ee33f7574929</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Regent Park (Fred Victor)</h1>
+                    <h2>40 Oaks Street</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appoinment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>1st dose and 2nd dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://regentparkchc.org/covid-19-vaccine-clinic/">https://regentparkchc.org/covid-19-vaccine-clinic/</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Ryerson University</h1>
+                    <h2>270 Church Street</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appoinment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p>1st dose and 2nd dose to those 12+ who live, work, go to school in Toronto (M postal code)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://www.ryerson.ca/covid-19/vaccination-clinic/">https://www.ryerson.ca/covid-19/vaccination-clinic/</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M2H1, M2J1, M2K1, M2L1, M2M1, M2N1, M2P1, M2R1, M3A1, M3B1, M3C1, M3H1, M3J1, M3K1, M3L1, M3M1, M3N1, M4A1, M4B1, M4C1, M4E1, M4G1, M4H1, M4J1, M4K1, M4L1, M4M1, M4N1, M4P1, M4R1, M4S1, M4T1, M4V1, M4W1, M4X1, M4Y1, M5A1, M5B1, M5C1, M5E1, M5G1, M5H1, M5J1, M5K1, M5L1, M5M1, M5N1, M5P1, M5R1, M5S1, M5T1, M5V1, M5W1, M5X1, M6A1, M6B1, M6C1, M6E1, M6G1, M6H1, M6J1, M6K1, M6L1, M6M1, M6N1, M6P1, M6R1, M6S1, M7A1, M7R1, M7Y1, M8V1, M8W1, M8X1, M8Y1, M8Z1, M9A1, M9B1, M9C1, M9L1, M9M1, M9N1, M9P1, M9R1, M9V1, M9W1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2, M2H2, M2J2, M2K2, M2L2, M2M2, M2N2, M2P2, M2R2, M3A2, M3B2, M3C2, M3H2, M3J2, M3K2, M3L2, M3M2, M3N2, M4A2, M4B2, M4C2, M4E2, M4G2, M4H2, M4J2, M4K2, M4L2, M4M2, M4N2, M4P2, M4R2, M4S2, M4T2, M4V2, M4W2, M4X2, M4Y2, M5A2, M5B2, M5C2, M5E2, M5G2, M5H2, M5J2, M5K2, M5L2, M5M2, M5N2, M5P2, M5R2, M5S2, M5T2, M5V2, M5W2, M5X2, M6A2, M6B2, M6C2, M6E2, M6G2, M6H2, M6J2, M6K2, M6L2, M6M2, M6N2, M6P2, M6R2, M6S2, M7A2, M7R2, M7Y2, M8V2, M8W2, M8X2, M8Y2, M8Z2, M9A2, M9B2, M9C2, M9L2, M9M2, M9N2, M9P2, M9R2, M9V2, M9W2]</a>
+                    <h1>Unity Health Toronto</h1>
+                    <h2>Multiple Locations</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appointment Only - 1st and 2nd Dose</h3>
+                    <br>
+                    <p> -  St. Joseph’s Health Centre (30 The Queensway)</p>
+                    <p> -  St. Michael’s Hospital (36 Queen St. E)</p>
+                    <p> -  West Park Healthcare (82 Buttonwood Ave)</p>
+                    <p> -  Community Place Hub (1756 Weston Rd)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://unityhealth.to/patients-and-visitors/covid-19/vaccine-clinics/">https://unityhealth.to/patients-and-visitors/covid-19/vaccine-clinics/</a>
+                    <br>
+                </li>
+
+                <li>
+                    <a href="#" hidden>[M1B1, M1C1, M1E1, M1G1, M1H1, M1J1, M1K1, M1L1, M1M1, M1N1, M1P1, M1R1, M1S1, M1T1, M1V1, M1W1, M1X1, M1B2, M1C2, M1E2, M1G2, M1H2, M1J2, M1K2, M1L2, M1M2, M1N2, M1P2, M1R2, M1S2, M1T2, M1V2, M1W2, M1X2]</a>
+                    <h1>Scarbrough Health Network</h1>
+                    <h2>Multiple Locations</h2>
+                    <br>
+                    <h3>Pfizer & Moderna - Appointment Only - 1st Dose (2nd dose will be contacted)</h3>
+                    <br>
+                    <p> -  Centennial College (941 Progress Ave)</p>
+                    <p> -  Centenary Hospital (2876 Ellesmere Road)</p>
+                    <p> -  Carefirst Seniors & Community Services Association (300 Silver Start Blvd)</p>
+                    <p> -  The Mid-Scarborough Hub – SCHC (2660 Eglinton Ave East)</p>
+                    <p> -  TAIBU Community Health Centre (27 Tapscott Road)</p>
+                    <br>
+                    <p>For more information and book an appointment, please visit:</p>
+                    <a href="https://www.scarboroughcovidvaccineclinic.ca/">https://www.scarboroughcovidvaccineclinic.ca/</a>
+                    <br>
+                </li>
+        
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <footer style= "background-color: black; padding-bottom: 5%;">
+            <div class="wrapper">
+                <a  href="https://www.toronto.ca/home/covid-19/covid-19-protect-yourself-others/covid-19-vaccines/covid-19-how-to-get-vaccinated/?accordion=city-immunization-clinics">
+                    <img id="poop" style = "margin: 2%;" src="images/mass-immi.svg">
+                </a>
+
+                <a href="https://covid-19.ontario.ca/covid-19-vaccines-ontario">
+                    <img  id="poop" style = "margin: 2%;" src="images/learn-more.svg">
+                </a>
+                <a href="https://covid-19.ontario.ca/vaccine-locations">
+                    <img  id="poop" style = "margin: 2%;" src="images/pharmacy-book.svg">
+                </a>
+                <!--
+                <p style = "color: blanchedalmond; float: left;">This is website is not Affiliated with any Government Entity, Made to find Vaccinations eaiser :)</p>-->
+                <p style = "color: blanchedalmond; float: inline-end;">©2021 Iftier Rahman</p>
+            </div>
+            
+        </footer>
+    </div>
+
+    <script src = "main.js"></script>
+</body>    
+</html>

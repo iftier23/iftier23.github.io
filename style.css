@@ -1,0 +1,294 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.title {
+    color: white;
+}
+
+.background{
+    background-image: url('images/header_background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 20%;
+}
+
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.logos {
+    float: left;
+    padding-top: 1%;
+    height: 50%;
+}
+
+.title {
+    float: right;
+    padding: 4% 68% 0% 0%;
+}
+
+.welcome-message{
+    position: relative;
+    padding: 20% 0%  3% 15%;
+}
+
+
+.instructions {
+    position: absolute;
+    font-size: 150%;
+    line-height: 42px;
+    padding: 0% 0% 0% 23.5%;
+    color: #000000;
+    font-weight: bold;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.search-box{
+    padding: 16% 0% 0% 25%;
+    float: left;
+}
+
+#myInput {
+    border-radius: 20px;
+    width: 300px;
+    height: 56px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 1%;
+}
+
+
+.search-btn {
+    padding: 16% 0% 0% 48%;
+}
+
+.information{
+    padding-top: 2.5%;
+}
+
+.message-one{
+    font-size: 150%;
+    padding-left: 5%;
+}
+
+.message-two{
+    padding-top: 3%;
+}
+
+.blob {
+    position: relative;
+}
+
+.text-1 {
+    font-size: 100%;
+}
+
+.box {
+    list-style-type: none;
+    
+    margin: 10px;
+    box-sizing: border-box;
+  }
+  
+  .box li {
+    border: 1px solid #ddd;
+    margin-top: 50px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    display: block;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .box li:hover:not(.header) {
+    background-color: #eee;
+  }
+
+  .le-beau{
+      padding-bottom: 5%;
+  }
+
+  @media screen and (max-width: 1100px) {
+    .logos {
+        width: 50%;
+    }
+
+    .inst {
+        font-size: 3vw;
+        padding-right: 2vw;
+    }
+
+
+    .welcome-message {
+        width: 95%;
+    }
+
+    .find {
+        width: 35vw;
+        padding: 0% 0% 0% 10%;
+    }
+
+
+
+    #myInput {
+        border-radius: 20px;
+        width: 30vw;
+        height: 7vw;
+        font-size: 2vw;
+        font-weight: bold;
+        padding-left: 7.5%;
+    }
+
+    .search{
+        padding-top: 20vw;
+        padding-right: 2vw;
+    }
+
+    .message-one{
+        font-size: 110%;
+        padding-right: 5%;
+    }
+
+    #poop{
+        width: 28.5%;
+    }
+
+    .le-beau{
+        padding-bottom: 5%;
+        width: 95vw;
+    }
+
+    .instructions {
+        position: absolute;
+        font-size: 150%;
+        line-height: 4.5vw;
+        padding: 2% 0% 0% 23.5%;
+        color: #000000;
+        font-weight: bold;
+    
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .logos {
+        width: 75%;
+        padding-left: 2;
+    }
+
+    .search-btn {
+        padding: 40% 0% 0% 48%;
+        width: 100%;
+
+    }
+
+    #why{
+        font-size: 200vw;
+    }
+
+    #why-1{
+        font-size: 4vw;
+        padding-bottom: 3vw;
+    }
+
+    .welcome-message {
+        padding-top: 40vw;
+        width: 75vw;
+    }
+
+    .find {
+        width: 62vw;
+        padding: 10% 20% 0% 0%;
+        float: left;
+    }
+
+    .search-box{
+        padding: 13% 0% 0% 25%;
+        padding-top: 25vw;
+        padding-right: 3vw;
+    }
+
+    #myInput {
+        border-radius: 20px;
+        width: 60vw;
+        height: 10vw;
+        font-size: 4vw;
+        font-weight: bold;
+        padding-left: 7.5%;
+    }
+
+    .message-one{
+        font-size: 110%;
+        padding-left: 10vw;
+    }
+
+    #poop{
+        width: 28.5%;
+    }
+
+    .le-beau{
+        padding-bottom: 5%;
+        width: 95vw;
+    }
+
+    .instructions {
+        position: absolute;
+        font-size: 4vw;
+        line-height: 5vw;
+        padding: 2% 10% 0% 15%;
+        color: #000000;
+        font-weight: bold;
+    
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .background{
+        background-image: url('images/header_background.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        height: 100%;
+        padding-bottom: 50vw;
+    }
+
+    .box li {
+        border: 1px solid #ddd;
+        margin-top: 30px; /* Prevent double borders */
+        background-color: #f6f6f6;
+        padding: 30px;
+        font-size: 10px;
+        font-weight: bold;
+        color: black;
+        display: block;
+        font-family: "Roboto", sans-serif;
+    }
+
+    .message-one{
+        font-size: 70%;
+        padding-right: 5%;
+    }
+
+    #poop{
+        width: 75%;
+        padding-left: 50px;
+    }
+
+    .message-two{
+        padding-top: 3%;
+        padding-left: 15vw;
+        padding-bottom: 5vw;
+        width: 100vw;
+    }
+}
